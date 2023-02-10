@@ -7,6 +7,7 @@
 [figma](https://www.figma.com/file/G4sc9FPy2KrlT1WPlcRPCW/%EB%AF%B8%EC%9A%B4%EC%9A%B0%EB%A6%AC%EC%83%88%EB%81%BC?node-id=0%3A1)
 
 
+
 ### **해커톤 주제**
 
 신입생들을 위한 플랫폼
@@ -20,6 +21,7 @@
 한준범(팀장), 구자현, 김민기, 김정원, 이재건
 
 ---
+
 
 ## 프로젝트 제목 😎
 
